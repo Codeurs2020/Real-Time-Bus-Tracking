@@ -10,9 +10,9 @@ Real Time Bus Tracking Repository
 - Now try to open the index.html file
 
 # Road Map
--Add more bus stop stations 
--Add more routes to add (e.g to other universities,etc)
--Add more time stops 
+- Add more bus stop stations 
+- Add more routes to add (e.g to other universities,etc)
+- Add more time stops 
 
 # MIT License
 
