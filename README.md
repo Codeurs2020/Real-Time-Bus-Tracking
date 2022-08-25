@@ -1,5 +1,5 @@
 # Real-Time-Bus-Tracking
-Real Time Bus Tracking Repository
+This activity is about imitating a bus route from MIT to Harvard. In this activity, you could see the bus station route where the bus navigates.
 
 # How To Run
 - clone the repository
